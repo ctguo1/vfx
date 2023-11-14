@@ -1,0 +1,69 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.textColor {
+    color: #030F27;
+}
+
+.navbarBgDark {
+    background: #767c7a;
+}
+
+.navbar-nav .nav-link.active {
+    color: #EDA72F;
+}
+
+.nav-link:hover {
+    color: #EDA72F;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.getBtn {
+    color: #fff;
+}
+
+.sideLine {
+    border-right: 1px solid #030F27;
+}
+
+.iconHeight {
+    height: 24px;
+    width: 24px;
+}
+
+@media screen and (min-width: 992px) {
+    .sideLine {
+    border-right: none;
+    }
+
+    iconHeight {
+    height: 46px;
+     width: 46px;
+    }
+}
+video{
+    width: 100%;
+    height: auto;
+    margin-bottom: 40px;
+}
+.bg2{
+    margin-top: 40px;
+}
+.BgImage{
+  background-image: url("../images/vfx2.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  height: 500px;
+  background-position: 50% 20%;
+ 
+}
+.bg1{
+    background-image: url("../images/bg.jpg");
+}
+
+
